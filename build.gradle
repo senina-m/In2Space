@@ -23,3 +23,6 @@ jar {
         attributes 'Main-Class': "ru.senina.school.MainView"
     }
 }
+
+targetCompatibility = 1.8
+sourceCompatibility = 1.8
